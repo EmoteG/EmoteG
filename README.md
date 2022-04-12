@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django and python
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me emotegamig@outlook.com
+- 📫 How to reach me emotegames@outlook.com
 
 <!---
 EmoteG/EmoteG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
