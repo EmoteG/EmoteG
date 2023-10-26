@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmoteG
 - 👀 I’m interested in Django and python
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me emotegames@outlook.com
 
